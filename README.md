@@ -1,6 +1,7 @@
 # 🌱 Eco-Track
 
 Eco-Track est une application web moderne permettant de suivre et d'analyser votre empreinte écologique. L'application offre une interface intuitive pour enregistrer et visualiser vos consommations d'énergie, d'eau, de papier et vos émissions de CO₂.
+Le site est accessible ici [![Voir en ligne](https://img.shields.io/badge/Démo-en%20ligne-green?style=for-the-badge&logo=github)](https://limadiallo.github.io/EcoTrack/)
 
 ## Fonctionnalités
 
