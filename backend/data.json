@@ -1,0 +1,32 @@
+[
+  {
+    "type": "electricity",
+    "value": "12",
+    "timestamp": "2025-05-04T08:37:08.833Z"
+  },
+  {
+    "type": "co2",
+    "value": "30",
+    "timestamp": "2025-05-04T08:42:00.073Z"
+  },
+  {
+    "type": "paper",
+    "value": "3000",
+    "timestamp": "2025-05-04T09:43:46.619Z"
+  },
+  {
+    "type": "electricity",
+    "value": "12",
+    "timestamp": "2025-05-04T09:44:15.686Z"
+  },
+  {
+    "type": "water",
+    "value": "1000",
+    "timestamp": "2025-05-04T09:49:22.815Z"
+  },
+  {
+    "type": "electricity",
+    "value": "200",
+    "timestamp": "2025-05-04T09:49:40.582Z"
+  }
+]
